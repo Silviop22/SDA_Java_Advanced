@@ -1,6 +1,7 @@
-package al.sdacademy.functional;
+package al.sdacademy.functional.lambda;
 
-import al.sdacademy.functional.command.Command;
+import al.sdacademy.functional.lambda.AvailableCommand;
+import al.sdacademy.functional.lambda.command.Command;
 
 public class CommandFactory {
     public static Command getCommand(AvailableCommand operator) {

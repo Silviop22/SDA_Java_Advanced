@@ -1,4 +1,4 @@
-package al.sdacademy.functional.command;
+package al.sdacademy.functional.lambda.command;
 
 @FunctionalInterface
 public interface Command {

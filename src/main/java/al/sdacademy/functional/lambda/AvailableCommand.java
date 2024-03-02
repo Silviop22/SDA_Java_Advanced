@@ -1,4 +1,4 @@
-package al.sdacademy.functional;
+package al.sdacademy.functional.lambda;
 
 public enum AvailableCommand {
     ADD("add"),
